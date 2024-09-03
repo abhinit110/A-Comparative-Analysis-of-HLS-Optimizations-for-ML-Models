@@ -1,4 +1,4 @@
-# A Comparative Analysis of HLS Optimizations for ML Models
+# Comparative Analysis of HLS Optimizations for HAR CNN Model
 
 ## Project Overview
 
